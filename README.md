@@ -17,7 +17,7 @@ It highlights key metrics such as transactions, quantity sold, revenue, and prof
 │ └── Coffee_Shop_Sales_Data.xlsx # Source dataset
 │
 ├── 🖼️ Image
-│ └── Dashboard.png # Dashboard image/screenshot
+│ └── Dashboard_image.png # Dashboard image/screenshot
 │
 └── 📄 README.md # Documentation file
 
@@ -28,6 +28,7 @@ It highlights key metrics such as transactions, quantity sold, revenue, and prof
 - **Total Transactions:** 9,971  
 - **Total Quantity Sold:** 14,177  
 - **Total Revenue:** $46,374.25  
+- **Total Profit:** $16,230.99  
 
 ---
 
@@ -65,7 +66,7 @@ It highlights key metrics such as transactions, quantity sold, revenue, and prof
 ---
 
 ## 🧩 Example Dashboard View
-![Dashboard Preview](Image/Dashboard.png)
+![Dashboard Preview](Image/Dashboard_image.png)
 
 ---
 
